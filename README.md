@@ -7,4 +7,4 @@ Step 2: Clone/Copy this repository and paste it in xampp/htdocs folder
 
 Step 3: Add the train.sql file from the repository in PHPMYADMIN Database.
 
-Project Paper: https://ijrcs.org/wp-content/uploads/IJRCS202004057.pdf
+
